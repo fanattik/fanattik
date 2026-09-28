@@ -4,7 +4,12 @@ Web developer from Prague. I build websites and small web apps for businesses, a
 
 - 🌐 Websites & web apps: **Next.js · TypeScript · Tailwind · Supabase**
 - 🏠 Home Assistant integrations and Lovelace cards
-- 💇 Currently building [Hairweb.cz](https://hairweb.cz), websites for hair salons and barbershops
+
+#### Currently working on
+
+- 🚀 **[Selluno.eu](https://selluno.eu)**
+- 🧾 **[FakturaFlow.cz](https://fakturaflow.cz)**, invoicing made simple
+- 💇 **[HairWeb.cz](https://hairweb.cz)**, websites for hair salons and barbershops
 
 #### Featured project
 
